@@ -1,0 +1,16 @@
+2020-11-13T13:13:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 437
+
+2020-11-13T13:17:13+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-11-13T13:19:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-11-13T13:34:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-11-13T13:37:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 462
+
+2020-11-13T13:40:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 162
+
+2020-11-13T13:45:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-includes\Requests\Transport\cURL.php on line 462
+
+2020-11-13T14:02:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Users\Belphegor\Documents\GitHub\arakiri\wp-admin\includes\class-wp-filesystem-direct.php on line 80
+
